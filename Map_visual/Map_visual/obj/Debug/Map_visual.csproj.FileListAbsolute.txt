@@ -1,0 +1,9 @@
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\bin\Debug\Map_visual.exe
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\bin\Debug\Map_visual.pdb
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\obj\Debug\Map_visual.csprojAssemblyReference.cache
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\obj\Debug\Map_visual.Form1.resources
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\obj\Debug\Map_visual.Properties.Resources.resources
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\obj\Debug\Map_visual.csproj.GenerateResource.cache
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\obj\Debug\Map_visual.csproj.CoreCompileInputs.cache
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\obj\Debug\Map_visual.exe
+D:\Institute\5 семестр\НИР\Map_visual\Map_visual\obj\Debug\Map_visual.pdb
